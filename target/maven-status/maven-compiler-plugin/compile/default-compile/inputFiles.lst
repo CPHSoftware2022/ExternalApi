@@ -1,0 +1,9 @@
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/model/weather/DataModel.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/util/JsonResponse.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/util/HttpRequest.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/util/BadRequestException.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/controller/Weather.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/model/weather/Datum.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/model/weather/PopulationCount.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/configuration/WebClientConfiguration.java
+/Users/jacobsimonsen/Desktop/ExternalApi/src/main/java/com/example/httprequest/HttprequestApplication.java
